@@ -1,0 +1,131 @@
+.bg-image{
+  background-image: url(./assets/images/Rectangle.png);
+  background-size: cover;
+  /* height: 900px;
+  background-repeat: no-repeat; */
+
+  /* height: 900px; */
+  
+  margin-top: 20px;
+  
+}
+
+
+
+header{
+  margin-right: 50px;
+}
+
+
+
+header a{
+  color: black;
+  font-size: larger;
+  
+  
+}
+
+.nav li :hover{
+  font-weight: bolder;
+  color: teal!important;
+
+}
+.arrow{
+  background-color: teal;
+}
+
+.but{
+  background-color: teal;
+  color: white;
+  margin-top: 50px;
+}
+
+
+
+.tech{
+  text-align: start;
+  margin-left: 100px;
+  
+}
+
+
+.career{
+  height: 400px;
+  margin-bottom: 100px;
+  margin-left: 300px;
+  margin-right: 200px;
+     margin-top: 20px;
+     
+}
+
+
+
+
+
+.program{
+  text-align: start;
+  margin-left: 100px;
+}
+
+
+.card{
+  height: 350px;
+}
+
+
+.skills{
+  text-align: start;
+  margin-left: 100px;
+  margin-right: 200px;
+}
+
+.techs{
+  text-align: start;
+  margin-left: 200px;
+}
+
+.pic1{
+  margin-right: 250px;
+}
+
+.pic2{
+  margin-left: 100px;
+
+}
+
+.parent{
+  background-color: teal !important;
+ 
+}
+
+.shakes{
+  text-align: start;
+  margin-left: 100px;
+  margin-right: 200px;
+
+  
+  
+}
+
+.calenders{
+  text-align: start;
+    margin-left: 200px;
+
+}
+
+footer{
+  background-color: teal;
+}
+
+
+/* Sign UP */
+.signup input {
+  width: 250px;
+  border: 2px solid blueviolet;
+  border-radius: 5px;
+}
+
+
+
+
+
